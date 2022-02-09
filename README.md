@@ -86,7 +86,7 @@ instructions, so you can continue this lesson here or in GitHub.
 Forking is a process which creates an exact copy of a collection of code and
 files. Once you've created a fork on your own GitHub account, you will be able
 to edit the files in the repository and write your own code solution without
-interfering with the original copy.
+interfering with the original copy
 
 Once your fork is ready, the next step is to download (**clone**) your new
 repository to your local machine.
